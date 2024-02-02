@@ -1,0 +1,11 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "box/spout": "^3.3",
+        "phpoffice/phpspreadsheet": "^2.0"
+    } , 
+     "config": {
+
+        "platform-check": false
+    }
+}
